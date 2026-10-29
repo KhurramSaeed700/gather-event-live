@@ -1,0 +1,1 @@
+{"name":"gather-live","private":true,"type":"module","scripts":{"dev":"node dev.mjs","test":"node --test test.mjs"},"engines":{"node":">=22"}}
